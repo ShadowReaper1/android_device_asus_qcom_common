@@ -66,6 +66,7 @@ debug.mdpcomp.idletime=600
 debug.mdpcomp.logs=0
 debug.egl.hw=1
 debug.sf.hw=1
+debug.sf.recomputecrop=0
 debug.enable.sglscale=1
 dev.pm.dyn_samplingrate=1
 persist.demo.hdmirotationlock=false
