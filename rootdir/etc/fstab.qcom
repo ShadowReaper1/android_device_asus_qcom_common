@@ -20,3 +20,6 @@
 
 # /dev/block/bootdevice/by-name/APD                 /vendor      ext4    ro,barrier=1                                                                   wait
 # For later development (314mb)
+
+#zram
+/dev/block/zram0                                    none         swap    defaults                                                                       zramsize=536870912,notrim
