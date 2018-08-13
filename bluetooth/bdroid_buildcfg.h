@@ -27,5 +27,4 @@
 #undef PROPERTY_VALUE_MAX
 
 #define BLUETOOTH_QTI_SW TRUE
-#define BLE_VND_INCLUDED   TRUE
 #endif
