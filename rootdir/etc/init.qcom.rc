@@ -700,12 +700,12 @@ service hciattach /vendor/bin/hci_qcomm_init -e
     disabled
     oneshot
 
-on property:bluetooth.hciattach=true
+on property:vendor.bluetooth.hciattach=true
     start hciattach
     setprop bluetooth.status on
 
-on property:bluetooth.hciattach=false
-    setprop bluetooth.status off
+on property:vendor.bluetooth.hciattach=false
+    setprop vendor.bluetooth.status off
 
 service ims_rtp_daemon /vendor/bin/ims_rtp_daemon
    class main
