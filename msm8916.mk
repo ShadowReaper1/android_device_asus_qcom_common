@@ -269,10 +269,6 @@ PRODUCT_PACKAGES += \
     librmnetctl \
     libxml2
 
-# Include IMSEnabler
-PRODUCT_PACKAGES += \
-    IMSEnabler
-
 # Seccomp
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/seccomp/mediacodec-seccomp.policy:system/vendor/etc/seccomp_policy/mediacodec.policy \
