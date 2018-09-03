@@ -311,13 +311,10 @@ PRODUCT_PACKAGES += \
     wificond
 
 PRODUCT_PACKAGES += \
-<<<<<<< HEAD
     wcnss_service
 
 PRODUCT_PACKAGES += \
     libwifi-hal-qcom \
-=======
->>>>>>> 4f3090db... msm8916-common: Kill unused hostapd configs
     hostapd \
     wpa_supplicant \
     wpa_supplicant.conf
