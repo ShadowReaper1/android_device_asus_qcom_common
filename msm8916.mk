@@ -252,6 +252,7 @@ PRODUCT_PACKAGES += \
     init.qcom.power.rc \
     init.qcom.usb.rc \
     init.recovery.qcom.rc \
+    init.target.rc \
     ueventd.qcom.rc
 
 # Recovery
