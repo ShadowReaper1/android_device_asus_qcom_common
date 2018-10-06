@@ -91,13 +91,11 @@ dhcp.wlan0.dns2=1.0.0.1
 # Media
 mm.enable.smoothstreaming=true
 mmp.enable.3g2=true
-media.aac_51_output_enabled=true
 media.stagefright.legacyencoder=true
 media.stagefright.less-secure=true
 
 # Netmgrd
 persist.data.netmgrd.qos.enable=true
-ro.use_data_netmgrd=true
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
@@ -131,5 +129,4 @@ sys.uart.enable=0
 ro.vendor.build.security_patch=2018-03-05 
 
 # WiFi
-ro.disableWifiApFirmwareReload=true
 wifi.interface=wlan0
