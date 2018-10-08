@@ -418,7 +418,6 @@ etc/permissions/qcnvitems.xml|dc0e70cace2317b5169a454cbc2bbf8887c18d55
 etc/permissions/qcrilhook.xml|9fc58a3d54d20ac1d53bab14608815121aefbce5
 -framework/qcnvitems.jar|930fb60defd600bcf6b353ccfa33b3d1a4af6b8a
 -framework/qcrilhook.jar|730ea285996fbb46f67af687c478a833a42e668b
-vendor/lib64/libcneapiclient.so|38112f63d242165de6908ed21a07dfde87c1807c
 vendor/lib64/libconfigdb.so|2fe46de7e0c9c72e04156e842da7487b387da446
 vendor/lib64/libmdmdetect.so|1c354db8b3b7ab9de2f80a9867dce375869fa26d
 vendor/lib64/liblqe.so|a82a2515b9e59eae010419b0f8b27ddee073902b
@@ -429,6 +428,9 @@ vendor/lib64/libril-qc-radioconfig.so|0117c27403045abc2a1225a6fb10c0da033daa39
 vendor/lib64/libril-qcril-hook-oem.so|a69877b93164229de10260559aa2e02fcd9700f7
 vendor/lib64/libsystem_health_mon.so|9ad529e01e048da5df35e7dca85b14078f75a4f3
 vendor/lib64/libxml.so|00c701f4003f037f5c6e96c4c97f172e18b96038
+vendor/lib64/com.quicinc.cne.api@1.0.so|503825cc8a3c0d422e16e04b398d2c1924e518ca
+vendor/lib64/com.quicinc.cne.constants@1.0.so|a60fde6f9328635bf43bb7008dd9517e4e749e8b
+vendor/lib64/libcneapiclient.so|33e7465996749a8823ac03e34a94e3112c88dda4
 
 # Radio - IMS
 bin/imscmservice:vendor/bin/imscmservice
