@@ -78,14 +78,10 @@ mmp.enable.3g2=true
 media.aac_51_output_enabled=true
 media.stagefright.legacyencoder=true
 media.stagefright.less-secure=true
-persist.media.treble_omx=false
 
 # Netmgrd
 persist.data.netmgrd.qos.enable=true
 ro.use_data_netmgrd=true
-
-# OMX properties
-persist.media.treble_omx=false
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
